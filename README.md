@@ -54,4 +54,7 @@ Notas
 	•	Asegúrate de tener el archivo CSV con el formato índice,clave en cada línea.
 	•	Este código es solo un ejemplo para mostrar cómo manejar un Árbol B y puede requerir ajustes según los requisitos de la aplicación.
 
-Este README proporciona una visión general y guía de uso para el proyecto.
+# integrantes
+	Hugo Alonso Youzzueff Diaz Chavez
+ 	Melvin Yabar Carazas 
+  	
